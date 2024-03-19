@@ -1,6 +1,6 @@
 
-## create docker network
-#  containers in the same network can communicate my using container Name 
+#  create docker network
+## containers in the same network can communicate my using container Name 
 docker network create mongo-network
 
 docker run -d \

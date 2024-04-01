@@ -1,0 +1,3 @@
+kubectl get nodes ; kubectl get pods ; kubectls get deployment ; kubectl get replicaset ;  
+kubectl exec -it [pod-name] -- bin/bash
+kubectl delete deployment [deployment-name]
